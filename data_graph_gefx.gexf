@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-05-23">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="parti" title="parti" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0.0" label="Catherine Kamowski">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-146.04536" y="39.07027"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="1.0" label="Martine WONNER">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.729996" y="113.28392"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="2.0" label="Lionel Causse">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-161.13248" y="76.4698"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="3.0" label="Adrien MORENAS">
+        <attvalues>
+          <attvalue for="parti" value="lrem"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-212.34932" y="54.28507"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="4.0" label="Bénédicte Pételle">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-95.25148" y="44.70873"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="5.0" label="Laurence GAYTE">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.95294" y="-0.4494386"></viz:position>
+        <viz:color r="232" g="96" b="67"></viz:color>
+      </node>
+      <node id="6.0" label="Yannick Haury">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-196.81638" y="91.841606"></viz:position>
+        <viz:color r="229" g="85" b="59"></viz:color>
+      </node>
+      <node id="7.0" label="Célia de Lavergne">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-134.3006" y="15.44714"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="8.0" label="Monique Limon">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.40883" y="13.377659"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="9.0" label="Florence Provendier">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-88.5353" y="27.140448"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="10.0" label="Valérie Gomez-Bassac">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-168.5299" y="-15.448886"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="11.0" label="&#x1d5e3;&#x1d5ee;&#x1d600;&#x1d5f0;&#x1d5ee;&#x1d5f9; &#x1d5df;&#x1d5ee;&#x1d603;&#x1d5f2;&#x1d5ff;&#x1d5f4;&#x1d5fb;&#x1d5f2;">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-193.14307" y="34.759068"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="12.0" label="Emmanuelle Fontaine Domeizel">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-36.870804" y="-37.12563"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="13.0" label="Florence Granjus">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="974.6722" y="-201.89127"></viz:position>
+        <viz:color r="210" g="237" b="234"></viz:color>
+      </node>
+      <node id="14.0" label="Maud Petit">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.995346" y="65.58536"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="15.0" label="Philippe Chassaing">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-277.94116" y="110.2341"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="16.0" label="Christophe Lejeune">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="316.00073" y="-337.0974"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="17.0" label="Marc Delatte">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-115.322365" y="117.16455"></viz:position>
+        <viz:color r="232" g="96" b="67"></viz:color>
+      </node>
+      <node id="18.0" label="TRISSE">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-150.75208" y="-88.73062"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="19.0" label="Didier Paris">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-175.88521" y="-26.588732"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="20.0" label="Joaquim PUEYO">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="29.906107" y="518.992"></viz:position>
+        <viz:color r="245" g="153" b="107"></viz:color>
+      </node>
+      <node id="21.0" label="Marietta Karamanli">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.22352" y="419.35318"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="22.0" label="Vainqueur-Christophe">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="269.9119" y="-414.80472"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="23.0" label="Sylvie Tolmont &#x1f339;">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-26.504469" y="462.6652"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="24.0" label="Dominique Potier">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.805244" y="429.08203"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="25.0" label="Luc Carvounas">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-128.30984" y="446.3857"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="26.0" label="GiseleBiemouret">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-54.101196" y="440.09555"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="27.0" label="David Habib">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-46.14157" y="477.0072"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="28.0" label="Serge LETCHIMY">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.976" y="512.0141"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="29.0" label="Boris VALLAUD">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-70.84477" y="456.44684"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="30.0" label="jerome Lambert">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-46.926105" y="364.9208"></viz:position>
+        <viz:color r="245" g="153" b="107"></viz:color>
+      </node>
+      <node id="31.0" label="Christian HUTIN">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="360.69623" y="-344.8672"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="32.0" label="Joël Aviragnet">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-90.80392" y="475.6002"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="33.0" label="Ch. Pirès Beaune">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.10966" y="457.5853"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="34.0" label="Cécile Untermaier">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-133.26387" y="416.2375"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="35.0" label="BATTISTEL Marie Noelle">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-71.79606" y="442.64035"></viz:position>
+        <viz:color r="245" g="153" b="107"></viz:color>
+      </node>
+      <node id="36.0" label="Valérie Rabault">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.70369" y="446.75977"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="37.0" label="Jean-Louis Bricout">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.82349" y="459.56332"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="38.0" label="Laurence DUMONT">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.43143" y="476.666"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="39.0" label="Alain David">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-72.78423" y="474.1657"></viz:position>
+        <viz:color r="245" g="153" b="107"></viz:color>
+      </node>
+      <node id="40.0" label="Michèle Bonneton">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="320.5616" y="-383.80896"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="41.0" label="Éric Alauzet">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-173.31998" y="51.704723"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="42.0" label="Eva SAS">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.71936" y="236.44002"></viz:position>
+        <viz:color r="247" g="164" b="115"></viz:color>
+      </node>
+      <node id="43.0" label="Paul Molac">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.25015" y="283.81277"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="44.0" label="Laurence Abeille">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.39572" y="261.85025"></viz:position>
+        <viz:color r="245" g="153" b="107"></viz:color>
+      </node>
+      <node id="45.0" label="Barbara Pompili">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.33353" y="68.12496"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="46.0" label="François de Rugy">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-193.44148" y="136.03658"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="47.0" label="Sergio Coronado">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-460.35535" y="303.53885"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="48.0" label="Christophe Cavard">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-190.59232" y="218.66197"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="49.0" label="Danielle Auroi">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-401.78964" y="245.43578"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="50.0" label="Denis_Baupin">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-212.56232" y="88.27326"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="51.0" label="Noel Mamère">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.05844" y="-302.7487"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="52.0" label="Brigitte Allain">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-351.81726" y="222.62738"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="53.0" label="Véronique Massonneau">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-304.83157" y="264.725"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="54.0" label="Cécile Duflot">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-386.13013" y="229.77226"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="55.0" label="FM LAMBERT">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.14905" y="228.45905"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="56.0" label="Isabelle Attard">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-430.79526" y="251.31885"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="57.0" label="Jean-Louis Roumégas">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-321.86313" y="198.85493"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="58.0" label="Sébastien Leclerc">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="106.78354" y="-1241.3446"></viz:position>
+        <viz:color r="197" g="232" b="225" a="0.99607843"></viz:color>
+      </node>
+      <node id="59.0" label="JJ Gaultier">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="124.25982" y="-1237.7937"></viz:position>
+        <viz:color r="197" g="232" b="225" a="0.99607843"></viz:color>
+      </node>
+      <node id="60.0" label="Alain Ramadier">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1172.9906" y="-995.41473"></viz:position>
+        <viz:color r="184" g="226" b="217"></viz:color>
+      </node>
+      <node id="61.0" label="Laurence Trastour-Isnart">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1152.0225" y="-1067.9418"></viz:position>
+        <viz:color r="171" g="221" b="208"></viz:color>
+      </node>
+      <node id="62.0" label="Christian JACOB">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1185.9775" y="-1004.53455"></viz:position>
+        <viz:color r="158" g="216" b="200"></viz:color>
+      </node>
+      <node id="63.0" label="Emmanuel Maquet">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1138.0614" y="-1048.4963"></viz:position>
+        <viz:color r="171" g="221" b="208"></viz:color>
+      </node>
+      <node id="64.0" label="Dino Cinieri">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1180.2474" y="-1023.7608"></viz:position>
+        <viz:color r="118" g="200" b="174"></viz:color>
+      </node>
+      <node id="65.0" label="Emmanuelle Anthoine">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1113.2766" y="-973.776"></viz:position>
+        <viz:color r="223" g="242" b="242" a="0.99607843"></viz:color>
+      </node>
+      <node id="66.0" label="Fabien DI FILIPPO">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1136.8237" y="-996.1755"></viz:position>
+        <viz:color r="158" g="216" b="200"></viz:color>
+      </node>
+      <node id="67.0" label="Valérie Bazin-Malgras">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1080.7461" y="-995.1136"></viz:position>
+        <viz:color r="197" g="232" b="225" a="0.99607843"></viz:color>
+      </node>
+      <node id="68.0" label="Jean-Luc Reitzer">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="228.23761" y="-429.1111"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="69.0" label="Nesle Prono">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1207.2811" y="-995.0063"></viz:position>
+        <viz:color r="184" g="226" b="217"></viz:color>
+      </node>
+      <node id="70.0" label="Geneviève Levy">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1148.2822" y="-1015.37836"></viz:position>
+        <viz:color r="118" g="200" b="174"></viz:color>
+      </node>
+      <node id="71.0" label="Eric PAUGET">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1193.5084" y="-984.4759"></viz:position>
+        <viz:color r="171" g="221" b="208"></viz:color>
+      </node>
+      <node id="72.0" label="Jean-François PARIGI">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="352.509" y="-297.9226"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="73.0" label="Schellenberger 2017">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1197.9257" y="-1042.1018"></viz:position>
+        <viz:color r="197" g="232" b="225" a="0.99607843"></viz:color>
+      </node>
+      <node id="74.0" label="Jacques CATTIN">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="323.3954" y="-916.0223"></viz:position>
+        <viz:color r="210" g="237" b="234"></viz:color>
+      </node>
+      <node id="75.0" label="NATHALIE BASSIRE">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.6681" y="-260.7675"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="76.0" label="Vincent Rolland">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="276.52805" y="-373.9636"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="77.0" label="Nadia Ramassamy">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-568.7752" y="400.99005"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="78.0" label="Michel Larive">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-520.0407" y="384.16058"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="79.0" label="François Ruffin">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-594.4884" y="398.449"></viz:position>
+        <viz:color r="242" g="141" b="99"></viz:color>
+      </node>
+      <node id="80.0" label="Jean-Luc Mélenchon">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-585.43646" y="335.13986"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="81.0" label="Sabine Rubin FI 93.9">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-613.50806" y="398.90344"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="82.0" label="Jean-Hugues Ratenon">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-621.14374" y="382.61746"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="83.0" label="Alexis Corbière">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-601.05273" y="407.2442"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="84.0" label="Bastien Lachaud">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-560.1798" y="412.76913"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="85.0" label="Loïc Prud'homme">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-547.978" y="380.09534"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="86.0" label="Muriel Ressiguier">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-535.9562" y="409.38022"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="87.0" label="Caroline FIAT">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-596.5232" y="374.02176"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+      <node id="88.0" label="Eric Coquerel">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-559.9528" y="387.42926"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="89.0" label="FiAssembléeNationale">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-579.58374" y="425.04028"></viz:position>
+        <viz:color r="232" g="96" b="67"></viz:color>
+      </node>
+      <node id="90.0" label="Ugo Bernalicis φ">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-583.26685" y="371.17743"></viz:position>
+        <viz:color r="234" g="107" b="75"></viz:color>
+      </node>
+      <node id="91.0" label="Bénédicte Taurine">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-602.5092" y="392.3843"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="92.0" label="Adrien Quatennens">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-583.3131" y="387.9902"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="93.0" label="Députée Obono">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-585.2068" y="409.75027"></viz:position>
+        <viz:color r="240" g="130" b="91"></viz:color>
+      </node>
+      <node id="94.0" label="Mathilde Panot">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-556.9396" y="360.49"></viz:position>
+        <viz:color r="237" g="119" b="83"></viz:color>
+      </node>
+      <node id="95.0" label="Clémentine Autain">
+        <attvalues></attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="427.95193" y="-234.21178"></viz:position>
+        <viz:color r="227" g="74" b="51"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0.0" source="0.0" target="5.0"></edge>
+      <edge id="1.0" source="0.0" target="46.0" weight="2.0"></edge>
+      <edge id="3.0" source="0.0" target="7.0"></edge>
+      <edge id="4.0" source="0.0" target="8.0"></edge>
+      <edge id="5.0" source="1.0" target="36.0"></edge>
+      <edge id="6.0" source="1.0" target="1.0" weight="3.0"></edge>
+      <edge id="9.0" source="2.0" target="6.0" weight="3.0"></edge>
+      <edge id="10.0" source="2.0" target="3.0"></edge>
+      <edge id="11.0" source="2.0" target="46.0"></edge>
+      <edge id="12.0" source="2.0" target="8.0"></edge>
+      <edge id="14.0" source="3.0" target="45.0" weight="9.0"></edge>
+      <edge id="17.0" source="3.0" target="10.0" weight="3.0"></edge>
+      <edge id="19.0" source="3.0" target="3.0"></edge>
+      <edge id="25.0" source="4.0" target="45.0" weight="4.0"></edge>
+      <edge id="27.0" source="4.0" target="9.0" weight="5.0"></edge>
+      <edge id="29.0" source="4.0" target="1.0" weight="3.0"></edge>
+      <edge id="32.0" source="5.0" target="45.0" weight="3.0"></edge>
+      <edge id="33.0" source="5.0" target="10.0" weight="2.0"></edge>
+      <edge id="34.0" source="5.0" target="5.0" weight="2.0"></edge>
+      <edge id="38.0" source="5.0" target="6.0"></edge>
+      <edge id="39.0" source="6.0" target="11.0" weight="6.0"></edge>
+      <edge id="41.0" source="6.0" target="45.0" weight="11.0"></edge>
+      <edge id="44.0" source="6.0" target="46.0" weight="10.0"></edge>
+      <edge id="53.0" source="6.0" target="6.0" weight="4.0"></edge>
+      <edge id="64.0" source="6.0" target="87.0"></edge>
+      <edge id="65.0" source="7.0" target="10.0" weight="2.0"></edge>
+      <edge id="66.0" source="7.0" target="46.0"></edge>
+      <edge id="67.0" source="7.0" target="45.0" weight="4.0"></edge>
+      <edge id="68.0" source="7.0" target="8.0" weight="9.0"></edge>
+      <edge id="73.0" source="7.0" target="19.0"></edge>
+      <edge id="75.0" source="8.0" target="1.0"></edge>
+      <edge id="78.0" source="8.0" target="10.0"></edge>
+      <edge id="79.0" source="8.0" target="9.0" weight="4.0"></edge>
+      <edge id="80.0" source="8.0" target="4.0" weight="3.0"></edge>
+      <edge id="82.0" source="8.0" target="8.0" weight="2.0"></edge>
+      <edge id="91.0" source="8.0" target="14.0"></edge>
+      <edge id="93.0" source="8.0" target="46.0"></edge>
+      <edge id="94.0" source="9.0" target="45.0"></edge>
+      <edge id="99.0" source="10.0" target="19.0" weight="4.0"></edge>
+      <edge id="101.0" source="10.0" target="11.0" weight="2.0"></edge>
+      <edge id="104.0" source="11.0" target="3.0" weight="3.0"></edge>
+      <edge id="109.0" source="11.0" target="45.0" weight="5.0"></edge>
+      <edge id="113.0" source="11.0" target="19.0" weight="2.0"></edge>
+      <edge id="114.0" source="11.0" target="5.0"></edge>
+      <edge id="116.0" source="11.0" target="11.0"></edge>
+      <edge id="119.0" source="12.0" target="12.0" weight="7.0"></edge>
+      <edge id="121.0" source="12.0" target="8.0"></edge>
+      <edge id="122.0" source="12.0" target="4.0"></edge>
+      <edge id="128.0" source="13.0" target="13.0" weight="3.0"></edge>
+      <edge id="131.0" source="14.0" target="9.0"></edge>
+      <edge id="132.0" source="14.0" target="45.0" weight="2.0"></edge>
+      <edge id="133.0" source="14.0" target="4.0" weight="2.0"></edge>
+      <edge id="135.0" source="14.0" target="55.0"></edge>
+      <edge id="137.0" source="15.0" target="54.0"></edge>
+      <edge id="138.0" source="15.0" target="46.0"></edge>
+      <edge id="139.0" source="15.0" target="15.0" weight="2.0"></edge>
+      <edge id="140.0" source="15.0" target="45.0"></edge>
+      <edge id="142.0" source="17.0" target="46.0" weight="2.0"></edge>
+      <edge id="143.0" source="17.0" target="6.0"></edge>
+      <edge id="144.0" source="17.0" target="1.0" weight="2.0"></edge>
+      <edge id="146.0" source="17.0" target="17.0"></edge>
+      <edge id="148.0" source="18.0" target="10.0"></edge>
+      <edge id="151.0" source="19.0" target="5.0"></edge>
+      <edge id="154.0" source="20.0" target="33.0"></edge>
+      <edge id="155.0" source="20.0" target="20.0"></edge>
+      <edge id="156.0" source="21.0" target="36.0"></edge>
+      <edge id="157.0" source="21.0" target="24.0" weight="2.0"></edge>
+      <edge id="158.0" source="21.0" target="29.0" weight="2.0"></edge>
+      <edge id="161.0" source="21.0" target="21.0" weight="2.0"></edge>
+      <edge id="163.0" source="23.0" target="33.0" weight="9.0"></edge>
+      <edge id="164.0" source="23.0" target="27.0" weight="2.0"></edge>
+      <edge id="167.0" source="23.0" target="36.0" weight="4.0"></edge>
+      <edge id="173.0" source="23.0" target="38.0"></edge>
+      <edge id="174.0" source="23.0" target="24.0"></edge>
+      <edge id="175.0" source="23.0" target="20.0"></edge>
+      <edge id="176.0" source="23.0" target="29.0" weight="3.0"></edge>
+      <edge id="177.0" source="23.0" target="26.0" weight="2.0"></edge>
+      <edge id="185.0" source="24.0" target="36.0" weight="10.0"></edge>
+      <edge id="187.0" source="24.0" target="45.0"></edge>
+      <edge id="189.0" source="24.0" target="24.0" weight="3.0"></edge>
+      <edge id="191.0" source="24.0" target="29.0" weight="6.0"></edge>
+      <edge id="193.0" source="24.0" target="33.0" weight="2.0"></edge>
+      <edge id="198.0" source="25.0" target="37.0" weight="7.0"></edge>
+      <edge id="199.0" source="25.0" target="25.0"></edge>
+      <edge id="200.0" source="25.0" target="32.0"></edge>
+      <edge id="201.0" source="26.0" target="37.0"></edge>
+      <edge id="202.0" source="26.0" target="36.0" weight="7.0"></edge>
+      <edge id="204.0" source="26.0" target="29.0" weight="5.0"></edge>
+      <edge id="206.0" source="26.0" target="33.0" weight="8.0"></edge>
+      <edge id="207.0" source="26.0" target="32.0" weight="6.0"></edge>
+      <edge id="214.0" source="26.0" target="38.0"></edge>
+      <edge id="217.0" source="26.0" target="27.0"></edge>
+      <edge id="222.0" source="26.0" target="34.0" weight="2.0"></edge>
+      <edge id="225.0" source="27.0" target="36.0" weight="7.0"></edge>
+      <edge id="226.0" source="27.0" target="24.0" weight="2.0"></edge>
+      <edge id="227.0" source="27.0" target="33.0" weight="9.0"></edge>
+      <edge id="231.0" source="27.0" target="29.0" weight="5.0"></edge>
+      <edge id="235.0" source="27.0" target="20.0"></edge>
+      <edge id="240.0" source="27.0" target="27.0" weight="3.0"></edge>
+      <edge id="251.0" source="28.0" target="28.0" weight="4.0"></edge>
+      <edge id="252.0" source="28.0" target="36.0" weight="3.0"></edge>
+      <edge id="253.0" source="28.0" target="29.0" weight="2.0"></edge>
+      <edge id="255.0" source="28.0" target="25.0"></edge>
+      <edge id="257.0" source="28.0" target="24.0"></edge>
+      <edge id="259.0" source="28.0" target="32.0"></edge>
+      <edge id="263.0" source="29.0" target="36.0" weight="5.0"></edge>
+      <edge id="265.0" source="29.0" target="33.0" weight="9.0"></edge>
+      <edge id="278.0" source="30.0" target="55.0"></edge>
+      <edge id="279.0" source="30.0" target="23.0"></edge>
+      <edge id="280.0" source="30.0" target="29.0" weight="2.0"></edge>
+      <edge id="282.0" source="30.0" target="30.0"></edge>
+      <edge id="283.0" source="32.0" target="29.0" weight="8.0"></edge>
+      <edge id="284.0" source="32.0" target="33.0" weight="4.0"></edge>
+      <edge id="287.0" source="32.0" target="36.0" weight="6.0"></edge>
+      <edge id="294.0" source="32.0" target="35.0" weight="2.0"></edge>
+      <edge id="299.0" source="32.0" target="27.0" weight="2.0"></edge>
+      <edge id="306.0" source="33.0" target="36.0" weight="8.0"></edge>
+      <edge id="307.0" source="33.0" target="37.0" weight="13.0"></edge>
+      <edge id="317.0" source="33.0" target="34.0" weight="3.0"></edge>
+      <edge id="323.0" source="34.0" target="89.0"></edge>
+      <edge id="324.0" source="34.0" target="36.0"></edge>
+      <edge id="325.0" source="34.0" target="37.0" weight="2.0"></edge>
+      <edge id="326.0" source="34.0" target="46.0"></edge>
+      <edge id="327.0" source="34.0" target="29.0" weight="3.0"></edge>
+      <edge id="334.0" source="35.0" target="29.0" weight="9.0"></edge>
+      <edge id="335.0" source="35.0" target="36.0" weight="6.0"></edge>
+      <edge id="336.0" source="35.0" target="33.0" weight="20.0"></edge>
+      <edge id="342.0" source="35.0" target="24.0" weight="10.0"></edge>
+      <edge id="343.0" source="35.0" target="25.0" weight="2.0"></edge>
+      <edge id="352.0" source="35.0" target="37.0" weight="2.0"></edge>
+      <edge id="357.0" source="35.0" target="26.0" weight="2.0"></edge>
+      <edge id="392.0" source="36.0" target="86.0"></edge>
+      <edge id="393.0" source="36.0" target="25.0" weight="2.0"></edge>
+      <edge id="396.0" source="36.0" target="37.0" weight="6.0"></edge>
+      <edge id="400.0" source="37.0" target="24.0" weight="3.0"></edge>
+      <edge id="402.0" source="37.0" target="37.0" weight="16.0"></edge>
+      <edge id="415.0" source="37.0" target="29.0" weight="5.0"></edge>
+      <edge id="444.0" source="38.0" target="38.0" weight="2.0"></edge>
+      <edge id="445.0" source="38.0" target="33.0"></edge>
+      <edge id="447.0" source="39.0" target="33.0" weight="9.0"></edge>
+      <edge id="448.0" source="39.0" target="29.0" weight="9.0"></edge>
+      <edge id="449.0" source="39.0" target="32.0" weight="3.0"></edge>
+      <edge id="450.0" source="39.0" target="37.0" weight="4.0"></edge>
+      <edge id="457.0" source="39.0" target="36.0" weight="4.0"></edge>
+      <edge id="465.0" source="39.0" target="24.0" weight="2.0"></edge>
+      <edge id="466.0" source="39.0" target="25.0" weight="3.0"></edge>
+      <edge id="474.0" source="39.0" target="26.0" weight="2.0"></edge>
+      <edge id="479.0" source="39.0" target="23.0"></edge>
+      <edge id="484.0" source="41.0" target="45.0" weight="4.0"></edge>
+      <edge id="487.0" source="43.0" target="55.0" weight="5.0"></edge>
+      <edge id="488.0" source="43.0" target="33.0"></edge>
+      <edge id="490.0" source="43.0" target="29.0"></edge>
+      <edge id="494.0" source="44.0" target="42.0" weight="8.0"></edge>
+      <edge id="498.0" source="44.0" target="47.0" weight="2.0"></edge>
+      <edge id="503.0" source="44.0" target="25.0"></edge>
+      <edge id="512.0" source="45.0" target="19.0"></edge>
+      <edge id="513.0" source="46.0" target="47.0"></edge>
+      <edge id="514.0" source="47.0" target="47.0" weight="10.0"></edge>
+      <edge id="516.0" source="47.0" target="79.0" weight="3.0"></edge>
+      <edge id="517.0" source="47.0" target="93.0"></edge>
+      <edge id="528.0" source="48.0" target="55.0" weight="48.0"></edge>
+      <edge id="549.0" source="48.0" target="45.0" weight="2.0"></edge>
+      <edge id="551.0" source="48.0" target="46.0" weight="6.0"></edge>
+      <edge id="558.0" source="48.0" target="25.0"></edge>
+      <edge id="569.0" source="48.0" target="94.0"></edge>
+      <edge id="586.0" source="49.0" target="54.0" weight="8.0"></edge>
+      <edge id="589.0" source="49.0" target="86.0"></edge>
+      <edge id="591.0" source="49.0" target="82.0"></edge>
+      <edge id="596.0" source="50.0" target="45.0" weight="7.0"></edge>
+      <edge id="603.0" source="50.0" target="46.0"></edge>
+      <edge id="604.0" source="52.0" target="49.0" weight="5.0"></edge>
+      <edge id="605.0" source="52.0" target="52.0" weight="12.0"></edge>
+      <edge id="607.0" source="52.0" target="54.0" weight="4.0"></edge>
+      <edge id="608.0" source="52.0" target="56.0" weight="2.0"></edge>
+      <edge id="615.0" source="52.0" target="42.0" weight="5.0"></edge>
+      <edge id="618.0" source="52.0" target="44.0" weight="2.0"></edge>
+      <edge id="622.0" source="52.0" target="46.0"></edge>
+      <edge id="626.0" source="52.0" target="43.0"></edge>
+      <edge id="635.0" source="52.0" target="50.0"></edge>
+      <edge id="637.0" source="53.0" target="47.0"></edge>
+      <edge id="638.0" source="53.0" target="55.0"></edge>
+      <edge id="639.0" source="54.0" target="94.0" weight="2.0"></edge>
+      <edge id="640.0" source="55.0" target="26.0"></edge>
+      <edge id="641.0" source="57.0" target="57.0" weight="7.0"></edge>
+      <edge id="643.0" source="57.0" target="42.0" weight="3.0"></edge>
+      <edge id="647.0" source="57.0" target="54.0" weight="4.0"></edge>
+      <edge id="649.0" source="57.0" target="55.0"></edge>
+      <edge id="656.0" source="57.0" target="45.0"></edge>
+      <edge id="657.0" source="58.0" target="58.0"></edge>
+      <edge id="658.0" source="59.0" target="58.0"></edge>
+      <edge id="659.0" source="59.0" target="59.0"></edge>
+      <edge id="660.0" source="60.0" target="70.0" weight="2.0"></edge>
+      <edge id="661.0" source="60.0" target="62.0" weight="2.0"></edge>
+      <edge id="662.0" source="60.0" target="71.0" weight="2.0"></edge>
+      <edge id="666.0" source="60.0" target="64.0" weight="2.0"></edge>
+      <edge id="668.0" source="61.0" target="61.0" weight="2.0"></edge>
+      <edge id="670.0" source="61.0" target="70.0"></edge>
+      <edge id="671.0" source="61.0" target="64.0"></edge>
+      <edge id="672.0" source="62.0" target="69.0" weight="5.0"></edge>
+      <edge id="673.0" source="63.0" target="70.0" weight="2.0"></edge>
+      <edge id="675.0" source="63.0" target="61.0"></edge>
+      <edge id="676.0" source="63.0" target="64.0"></edge>
+      <edge id="677.0" source="63.0" target="63.0"></edge>
+      <edge id="678.0" source="64.0" target="62.0" weight="9.0"></edge>
+      <edge id="680.0" source="64.0" target="64.0" weight="7.0"></edge>
+      <edge id="685.0" source="64.0" target="66.0"></edge>
+      <edge id="695.0" source="65.0" target="66.0" weight="2.0"></edge>
+      <edge id="697.0" source="66.0" target="70.0" weight="5.0"></edge>
+      <edge id="698.0" source="66.0" target="66.0" weight="14.0"></edge>
+      <edge id="714.0" source="66.0" target="62.0"></edge>
+      <edge id="715.0" source="67.0" target="70.0"></edge>
+      <edge id="716.0" source="67.0" target="67.0" weight="14.0"></edge>
+      <edge id="734.0" source="69.0" target="69.0"></edge>
+      <edge id="735.0" source="69.0" target="71.0"></edge>
+      <edge id="736.0" source="70.0" target="64.0" weight="2.0"></edge>
+      <edge id="738.0" source="70.0" target="70.0"></edge>
+      <edge id="741.0" source="70.0" target="62.0" weight="3.0"></edge>
+      <edge id="744.0" source="71.0" target="62.0" weight="5.0"></edge>
+      <edge id="749.0" source="71.0" target="71.0"></edge>
+      <edge id="750.0" source="73.0" target="64.0" weight="3.0"></edge>
+      <edge id="753.0" source="73.0" target="73.0" weight="3.0"></edge>
+      <edge id="756.0" source="74.0" target="74.0" weight="10.0"></edge>
+      <edge id="766.0" source="77.0" target="79.0" weight="15.0"></edge>
+      <edge id="767.0" source="77.0" target="86.0" weight="14.0"></edge>
+      <edge id="769.0" source="77.0" target="93.0" weight="17.0"></edge>
+      <edge id="770.0" source="77.0" target="84.0" weight="27.0"></edge>
+      <edge id="771.0" source="77.0" target="85.0" weight="9.0"></edge>
+      <edge id="774.0" source="77.0" target="89.0" weight="9.0"></edge>
+      <edge id="781.0" source="77.0" target="82.0" weight="3.0"></edge>
+      <edge id="787.0" source="77.0" target="91.0" weight="8.0"></edge>
+      <edge id="805.0" source="77.0" target="87.0" weight="3.0"></edge>
+      <edge id="810.0" source="77.0" target="80.0" weight="3.0"></edge>
+      <edge id="826.0" source="77.0" target="94.0" weight="3.0"></edge>
+      <edge id="834.0" source="77.0" target="78.0" weight="2.0"></edge>
+      <edge id="853.0" source="78.0" target="79.0" weight="3.0"></edge>
+      <edge id="854.0" source="78.0" target="24.0"></edge>
+      <edge id="855.0" source="78.0" target="84.0" weight="3.0"></edge>
+      <edge id="857.0" source="79.0" target="79.0" weight="17.0"></edge>
+      <edge id="861.0" source="79.0" target="91.0" weight="42.0"></edge>
+      <edge id="862.0" source="79.0" target="93.0" weight="24.0"></edge>
+      <edge id="866.0" source="79.0" target="89.0" weight="18.0"></edge>
+      <edge id="869.0" source="79.0" target="87.0" weight="19.0"></edge>
+      <edge id="877.0" source="79.0" target="84.0" weight="6.0"></edge>
+      <edge id="882.0" source="79.0" target="92.0" weight="34.0"></edge>
+      <edge id="890.0" source="79.0" target="82.0" weight="8.0"></edge>
+      <edge id="898.0" source="79.0" target="83.0" weight="80.0"></edge>
+      <edge id="906.0" source="79.0" target="81.0" weight="10.0"></edge>
+      <edge id="927.0" source="80.0" target="80.0" weight="7.0"></edge>
+      <edge id="928.0" source="80.0" target="87.0" weight="5.0"></edge>
+      <edge id="929.0" source="80.0" target="47.0" weight="2.0"></edge>
+      <edge id="930.0" source="80.0" target="84.0"></edge>
+      <edge id="933.0" source="80.0" target="83.0"></edge>
+      <edge id="934.0" source="80.0" target="82.0"></edge>
+      <edge id="935.0" source="80.0" target="79.0" weight="2.0"></edge>
+      <edge id="937.0" source="80.0" target="93.0"></edge>
+      <edge id="939.0" source="80.0" target="91.0"></edge>
+      <edge id="940.0" source="80.0" target="92.0" weight="2.0"></edge>
+      <edge id="943.0" source="80.0" target="94.0" weight="3.0"></edge>
+      <edge id="948.0" source="80.0" target="78.0" weight="2.0"></edge>
+      <edge id="957.0" source="81.0" target="93.0" weight="8.0"></edge>
+      <edge id="959.0" source="81.0" target="92.0" weight="6.0"></edge>
+      <edge id="963.0" source="81.0" target="77.0" weight="9.0"></edge>
+      <edge id="964.0" source="81.0" target="89.0" weight="5.0"></edge>
+      <edge id="966.0" source="81.0" target="91.0" weight="8.0"></edge>
+      <edge id="969.0" source="81.0" target="87.0" weight="20.0"></edge>
+      <edge id="970.0" source="81.0" target="82.0" weight="4.0"></edge>
+      <edge id="971.0" source="81.0" target="83.0" weight="11.0"></edge>
+      <edge id="974.0" source="81.0" target="94.0" weight="4.0"></edge>
+      <edge id="979.0" source="81.0" target="84.0"></edge>
+      <edge id="993.0" source="81.0" target="85.0"></edge>
+      <edge id="995.0" source="81.0" target="80.0" weight="2.0"></edge>
+      <edge id="1026.0" source="81.0" target="88.0"></edge>
+      <edge id="1045.0" source="82.0" target="82.0" weight="6.0"></edge>
+      <edge id="1046.0" source="82.0" target="93.0" weight="3.0"></edge>
+      <edge id="1053.0" source="82.0" target="78.0"></edge>
+      <edge id="1055.0" source="82.0" target="91.0" weight="21.0"></edge>
+      <edge id="1057.0" source="82.0" target="84.0" weight="2.0"></edge>
+      <edge id="1062.0" source="83.0" target="91.0" weight="19.0"></edge>
+      <edge id="1066.0" source="83.0" target="82.0" weight="4.0"></edge>
+      <edge id="1070.0" source="83.0" target="86.0" weight="5.0"></edge>
+      <edge id="1071.0" source="83.0" target="93.0" weight="25.0"></edge>
+      <edge id="1080.0" source="83.0" target="83.0"></edge>
+      <edge id="1121.0" source="83.0" target="84.0"></edge>
+      <edge id="1179.0" source="84.0" target="93.0" weight="14.0"></edge>
+      <edge id="1180.0" source="84.0" target="86.0" weight="16.0"></edge>
+      <edge id="1187.0" source="84.0" target="89.0" weight="6.0"></edge>
+      <edge id="1204.0" source="84.0" target="92.0" weight="4.0"></edge>
+      <edge id="1222.0" source="85.0" target="94.0" weight="6.0"></edge>
+      <edge id="1224.0" source="85.0" target="86.0"></edge>
+      <edge id="1225.0" source="85.0" target="3.0"></edge>
+      <edge id="1226.0" source="85.0" target="80.0"></edge>
+      <edge id="1227.0" source="85.0" target="84.0" weight="4.0"></edge>
+      <edge id="1229.0" source="85.0" target="92.0" weight="3.0"></edge>
+      <edge id="1239.0" source="85.0" target="88.0" weight="64.0"></edge>
+      <edge id="1258.0" source="85.0" target="85.0" weight="14.0"></edge>
+      <edge id="1280.0" source="85.0" target="78.0"></edge>
+      <edge id="1285.0" source="86.0" target="92.0" weight="7.0"></edge>
+      <edge id="1286.0" source="86.0" target="94.0" weight="5.0"></edge>
+      <edge id="1287.0" source="86.0" target="79.0" weight="4.0"></edge>
+      <edge id="1288.0" source="86.0" target="32.0"></edge>
+      <edge id="1289.0" source="86.0" target="80.0" weight="2.0"></edge>
+      <edge id="1291.0" source="86.0" target="93.0" weight="9.0"></edge>
+      <edge id="1304.0" source="86.0" target="24.0"></edge>
+      <edge id="1307.0" source="86.0" target="91.0" weight="2.0"></edge>
+      <edge id="1309.0" source="87.0" target="92.0" weight="8.0"></edge>
+      <edge id="1310.0" source="87.0" target="93.0" weight="10.0"></edge>
+      <edge id="1312.0" source="87.0" target="94.0" weight="9.0"></edge>
+      <edge id="1318.0" source="87.0" target="87.0" weight="9.0"></edge>
+      <edge id="1329.0" source="87.0" target="91.0" weight="8.0"></edge>
+      <edge id="1341.0" source="87.0" target="88.0" weight="3.0"></edge>
+      <edge id="1348.0" source="88.0" target="77.0" weight="49.0"></edge>
+      <edge id="1379.0" source="88.0" target="80.0" weight="3.0"></edge>
+      <edge id="1383.0" source="88.0" target="86.0" weight="2.0"></edge>
+      <edge id="1385.0" source="88.0" target="82.0" weight="10.0"></edge>
+      <edge id="1386.0" source="88.0" target="94.0" weight="3.0"></edge>
+      <edge id="1388.0" source="88.0" target="90.0"></edge>
+      <edge id="1389.0" source="88.0" target="91.0" weight="5.0"></edge>
+      <edge id="1390.0" source="88.0" target="84.0" weight="6.0"></edge>
+      <edge id="1391.0" source="88.0" target="92.0" weight="5.0"></edge>
+      <edge id="1393.0" source="88.0" target="89.0" weight="8.0"></edge>
+      <edge id="1442.0" source="88.0" target="79.0" weight="6.0"></edge>
+      <edge id="1443.0" source="88.0" target="88.0" weight="25.0"></edge>
+      <edge id="1455.0" source="88.0" target="83.0"></edge>
+      <edge id="1473.0" source="88.0" target="78.0" weight="4.0"></edge>
+      <edge id="1483.0" source="88.0" target="93.0" weight="5.0"></edge>
+      <edge id="1519.0" source="89.0" target="92.0" weight="9.0"></edge>
+      <edge id="1522.0" source="89.0" target="93.0" weight="7.0"></edge>
+      <edge id="1523.0" source="89.0" target="86.0" weight="2.0"></edge>
+      <edge id="1527.0" source="89.0" target="87.0" weight="2.0"></edge>
+      <edge id="1531.0" source="89.0" target="82.0" weight="2.0"></edge>
+      <edge id="1536.0" source="89.0" target="91.0" weight="4.0"></edge>
+      <edge id="1540.0" source="89.0" target="94.0" weight="2.0"></edge>
+      <edge id="1541.0" source="89.0" target="89.0"></edge>
+      <edge id="1550.0" source="89.0" target="83.0"></edge>
+      <edge id="1555.0" source="90.0" target="87.0" weight="15.0"></edge>
+      <edge id="1556.0" source="90.0" target="86.0" weight="3.0"></edge>
+      <edge id="1557.0" source="90.0" target="91.0" weight="12.0"></edge>
+      <edge id="1559.0" source="90.0" target="93.0" weight="9.0"></edge>
+      <edge id="1564.0" source="90.0" target="92.0" weight="26.0"></edge>
+      <edge id="1573.0" source="90.0" target="80.0" weight="3.0"></edge>
+      <edge id="1574.0" source="90.0" target="79.0" weight="3.0"></edge>
+      <edge id="1575.0" source="90.0" target="94.0" weight="5.0"></edge>
+      <edge id="1576.0" source="90.0" target="84.0" weight="4.0"></edge>
+      <edge id="1579.0" source="90.0" target="83.0" weight="4.0"></edge>
+      <edge id="1581.0" source="90.0" target="78.0" weight="5.0"></edge>
+      <edge id="1590.0" source="90.0" target="77.0" weight="5.0"></edge>
+      <edge id="1606.0" source="90.0" target="81.0"></edge>
+      <edge id="1610.0" source="90.0" target="82.0"></edge>
+      <edge id="1615.0" source="90.0" target="85.0"></edge>
+      <edge id="1629.0" source="90.0" target="56.0"></edge>
+      <edge id="1646.0" source="90.0" target="89.0"></edge>
+      <edge id="1654.0" source="90.0" target="90.0"></edge>
+      <edge id="1667.0" source="91.0" target="93.0" weight="11.0"></edge>
+      <edge id="1679.0" source="91.0" target="94.0" weight="3.0"></edge>
+      <edge id="1727.0" source="91.0" target="84.0"></edge>
+      <edge id="1744.0" source="92.0" target="82.0"></edge>
+      <edge id="1777.0" source="92.0" target="93.0" weight="6.0"></edge>
+      <edge id="1791.0" source="93.0" target="93.0"></edge>
+      <edge id="1827.0" source="93.0" target="78.0"></edge>
+      <edge id="1833.0" source="94.0" target="93.0" weight="3.0"></edge>
+      <edge id="1835.0" source="94.0" target="79.0" weight="8.0"></edge>
+      <edge id="1847.0" source="94.0" target="84.0" weight="3.0"></edge>
+      <edge id="1855.0" source="94.0" target="83.0"></edge>
+    </edges>
+  </graph>
+</gexf>
