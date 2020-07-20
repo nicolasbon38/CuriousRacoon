@@ -35,7 +35,7 @@ for parti in listdir("data"):
 deputes_id = [d_json['id'] for d_json in deputes_json]
 print("nombre de députés traités: ", len(deputes_id))
 
-for i, d_json in enumerate(deputes_json[486:]):
+for i, d_json in enumerate(deputes_json):
     try:
         liked = api.favorites(id=d_json['id'], count=199)
         dico[d_json['id']] = [like for like in liked if like.user.id in deputes_id]
@@ -65,17 +65,17 @@ class Edge:
 ########################################################################################################
 
 les_edges= []
-i = 100000
+i = 0
 for key in dico.keys():
     for like in dico[key]:
         try:
-            les_edges.append(Edge(i, list(dico.keys()).index(key) + 486, list(dico.keys()).index(like.user.id) + 486))
+            les_edges.append(Edge(i, list(dico.keys()).index(key), list(dico.keys()).index(like.user.id)))
             i += 1
         except ValueError:
             print("là ça a fait de la merde, il trouve pas l'indice dans la liste, c'est chelou")
 
 
-f = open("rn_et_modem.gexf", 'w')
+f = open("data_graph.gexf", 'w')
 f.write("""<?xml version="1.0" encoding="UTF-8"?><gexf xmlns:viz="http:///www.gexf.net/1.1draft/viz" version="1.1" xmlns="http://www.gexf.net/1.1draft">
 <graph defaultedgetype="undirected" idtype="string" type="static">\n""")
 
