@@ -1,4 +1,6 @@
-![output](https://github.com/nicolasbon38/CuriousRacoon/blob/master/graphe_fruchterman_reingold.jpeg)
+![output](https://github.com/nicolasbon38/CuriousRacoon/blob/master/new_graphs.pdf)
+
+![output](https://github.com/nicolasbon38/CuriousRacoon/blob/master/color_parties.pdf)
 
 
 # README
