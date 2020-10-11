@@ -8,18 +8,4 @@ I played with the Twitter API : I collected data about likes french députés gi
 I have collected only the 199 last likes of each account. I haven't found the account of 40 députés (on 585).
 
 
-# API keys
-
-The credentials for the API are in a file named auth.py, stocked at the root of the repository and with this syntax :
-
-```{python}
-CONSUMER_KEY = '<your key>'
-CONSUMER_SECRET = '<your key>'
-ACCESS_TOKEN = ''<your key>''
-ACCESS_TOKEN_SECRET = '<your key>'
-```
-
-# Data folder
-I did not git the data I collected to build the graph.
-
 
