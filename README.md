@@ -1,4 +1,4 @@
-![image](https://github.com/nicolasbon38/CuriousRacoon/blob/master/new_graphs.pdf)
+![image](https://github.com/nicolasbon38/CuriousRacoon/blob/master/screenshot.png)
 
 ![image](https://github.com/nicolasbon38/CuriousRacoon/blob/master/colors_parties.JPG)
 
