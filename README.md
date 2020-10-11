@@ -1,6 +1,6 @@
-![output](https://github.com/nicolasbon38/CuriousRacoon/blob/master/new_graphs.pdf)
+![image](https://github.com/nicolasbon38/CuriousRacoon/blob/master/new_graphs.pdf)
 
-![output](https://github.com/nicolasbon38/CuriousRacoon/blob/master/color_parties.pdf)
+![image](https://github.com/nicolasbon38/CuriousRacoon/blob/master/color_parties.pdf)
 
 
 # README
